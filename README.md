@@ -15,5 +15,9 @@ Don Bosco Fambul [Homepage](http://www.donboscofambul.org/)
 
 ### How to try ###
 
-cd try
-... and try ...
+* cd try
+* ... and try ...
+* hugo new about.md
+* edit content/about.md in Markdown
+* hugo new post/welcome.md
+* edit post/welcome.md in Markdown

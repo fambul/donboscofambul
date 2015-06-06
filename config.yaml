@@ -1,7 +1,13 @@
-#baseurl = "http://www.donboscofambul.org/"
-baseurl = "http://localhost/"
-languageCode = "en-us"
-title = "Don Bosco Fambul"
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://spencerlyon2.github.io/hugo_gh_blog"
+title: "Don Bosco Fambul"
+canonifyurls: true
+...
 
 [params]
   description = ""
@@ -16,4 +22,3 @@ title = "Don Bosco Fambul"
 [[params.social]]
     title = "Projekt 3"
     url = ""
-
