@@ -19,8 +19,24 @@ git commit -am "initial commit"
 git remote add origin https://fambul@bitbucket.org/DBFambul/homepage.git
 
 echo "try" >> .gitignore
+cd try
+
+config.toml: project configuration
+hugo server --theme=hyde --buildDrafts --watch
+
+github integration
+git remote add github https://github.com/fambul/donboscofambul.git
 
 
+git subtree add --prefix=public https://github.com/fambul/donboscofambul.git gh-pages --squash
+git fetch https://github.com/fambul/donboscofambul.git gh-pages
+remote: Counting objects: 6, done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 6 (delta 4), reused 0 (delta 0), pack-reused 0
+Entpacke Objekte: 100% (6/6), Fertig.
+Von https://github.com/fambul/donboscofambul
+ * branch            gh-pages   -> FETCH_HEAD
+Added dir 'public'
 
 
  
