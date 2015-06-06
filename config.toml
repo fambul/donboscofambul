@@ -1,5 +1,5 @@
 #baseurl = "http://www.donboscofambul.org/"
-baseurl = "http://localhost/"
+baseurl = "https://github.com/fambul/donboscofambul"
 languageCode = "en-us"
 title = "Don Bosco Fambul"
 theme = "hugo-base-theme"
