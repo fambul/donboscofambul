@@ -10,5 +10,10 @@ Don Bosco Fambul [Homepage](http://www.donboscofambul.org/)
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Eckhard Hub <eckhard.hub@gmx.de>
-* Wolfgang Kofler <w.kofler@web.de> 
+* Eckhard Hub <mailto:eckhard.hub@gmx.de>
+* Wolfgang Kofler <mailto:w.kofler@web.de> 
+
+### How to try ###
+
+cd try
+... and try ...
