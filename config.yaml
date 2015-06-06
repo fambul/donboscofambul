@@ -4,7 +4,7 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "https://github.com/fambul/donboscofambul"
+baseurl: "http://fambul.github.io/donboscofambul"
 title: "Don Bosco Fambul"
 canonifyurls: true
 ...
