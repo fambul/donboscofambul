@@ -1,24 +1,15 @@
 ---
-contentdir: "content"
-layoutdir:  "layouts"
-publishdir: "public"
-indexes:
-  category: "categories"
 baseurl: "http://fambul.github.io/donboscofambul"
-title: "Don Bosco Fambul"
+languageCode: "en-us"
+publishdir: "public"
+contentdir: "content"
+layoutdir: "layouts"
 canonifyurls: true
+title: "Don Bosco Fambul"
 theme: "hugo-base-theme"
-params:
-  - description: "Don Bosco Fambul"
-  - mainIcon: "/img/donbosco.png"
-  - social:
-    - titlei: "Projekt 1"
-    - url: "https://twitter.com/SBootstrap"
-  - social:
-    - titlei: "Projekt 2"
-    - url: "https://twitter.com/SBootstrap"
-  - social:
-    - titlei: "Projekt 3"
-    - url: "https://twitter.com/SBootstrap"
-    
+params: 
+  mainIcon: "/img/donbosco.png"
+  social: 
+    title: "Projekt 1"
+    url: "https://twitter.com/SBootstrap"
 ...
