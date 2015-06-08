@@ -2,8 +2,11 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+# EH
+rm -rf public
+
 # Build the project. 
-hugo
+hugo -t hugo-base-theme
 
 # Add changes to git.
 git add -A

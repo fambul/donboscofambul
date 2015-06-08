@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Don Bosco Fambul</title>
-    <link>http://fambul.github.io/donboscofambul/</link>
+    <link>http://localhost:1313/donboscofambul/</link>
     <description>Recent content on Don Bosco Fambul</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sat, 06 Jun 2015 12:11:42 +0200</lastBuildDate>
-    <atom:link href="http://fambul.github.io/donboscofambul/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/donboscofambul/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
-      <link>http://fambul.github.io/donboscofambul/post/welcome/</link>
+      <link>http://localhost:1313/donboscofambul/post/welcome/</link>
       <pubDate>Sat, 06 Jun 2015 12:11:42 +0200</pubDate>
       
-      <guid>http://fambul.github.io/donboscofambul/post/welcome/</guid>
+      <guid>http://localhost:1313/donboscofambul/post/welcome/</guid>
       <description>&lt;p&gt;Von Sabine Kolping, Fachkraft im zivilen Friedensdienst entsandt durch die Arbeitsgemeinschaft Entwicklungshilfe (AGEH) für 3 Jahre. Sie ist bei Don Bosco Fambul zuständig für die Fortbildung der Mitarbeitenden und die Betreuung von PraktikantInnen,
 Sierra Leone – ein Nachkriegsland
 Elf Jahre wütete der Bürgerkrieg in Sierra Leone - einer der grausamsten und brutalsten in Afrika. Dieser Krieg hat spürbare Wunden im Land hinterlassen: die Menschen haben unvorstellbares Leid erfahren und müssen nun ihre Kriegs-Traumata verarbeiten. Auch die Infrastruktur wurde in großen Teilen zerstört. Der Krieg in dem kleinen westafrikanischen Land - mit 71.000 Quadratkilometer nur unwesentlich größer als Bayern - ist zwar seit acht Jahren offiziell beendet. Dennoch: die soziale, politische und wirtschaftliche Situation ist nach wie vor fragil. Sierra Leone ist das drittärmste Land der Welt.&lt;/p&gt;
@@ -23,10 +22,10 @@ Elf Jahre wütete der Bürgerkrieg in Sierra Leone - einer der grausamsten und b
     
     <item>
       <title>about</title>
-      <link>http://fambul.github.io/donboscofambul/about/</link>
+      <link>http://localhost:1313/donboscofambul/about/</link>
       <pubDate>Sat, 06 Jun 2015 11:14:32 +0200</pubDate>
       
-      <guid>http://fambul.github.io/donboscofambul/about/</guid>
+      <guid>http://localhost:1313/donboscofambul/about/</guid>
       <description>
 
 &lt;h2 id=&#34;legal-notice:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;legal notice&lt;/h2&gt;

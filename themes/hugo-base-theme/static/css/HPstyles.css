@@ -33,7 +33,6 @@ body {
     min-height: 70%;
     position: relative;
     background: url(../img/desk.jpg) no-repeat center center fixed;
-    background: url(../img/believe-in-god.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -63,7 +62,6 @@ and (orientation : portrait)
         width: 100%;
         position: relative;
         background: url(../img/desk-mini.jpg) no-repeat;
-        background: url(../img/believe-in-god.jpg) no-repeat;
         background-size: 100% 100%;
         z-index: 99999;
         background-color: black;
@@ -80,7 +78,6 @@ and (orientation : landscape) {
         width: 100%;
         position: relative;
         background: url(../img/desk-long.jpg) no-repeat;
-        background: url(../img/believe-in-god.jpg) no-repeat;
         background-size: 100% 100%;
         z-index: 99999;
         background-color: black;

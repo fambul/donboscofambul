@@ -43,7 +43,7 @@ Highlight takes exactly one required parameter of language and requires a
 closing shortcode.
 
 ### Example
-The example has an extra space between the special characters to prevent rendering here.
+The example has an extra space between the “{{” and “%” characters to prevent rendering here.
 
     {{ % highlight html %}}
     <section id="main">
