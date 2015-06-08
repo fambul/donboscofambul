@@ -6,4 +6,13 @@ contentdir: "content"
 layoutdir: "layouts"
 canonifyurls: true
 title: "Don Bosco Fambul"
-theme: "twentyfourteen"
+#theme: "twentyfourteen"
+theme: "hugo-theme-bootie-docs"
+copyright: "Copyright (c) 2015, Don Bosco Fambul / Sierra Leone"
+params:
+  mainMenu: 
+    - about
+    - usage
+  noCategoryLink: true
+  withSitePosts: true
+...
