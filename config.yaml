@@ -6,13 +6,21 @@ contentdir: "content"
 layoutdir: "layouts"
 canonifyurls: true
 title: "Don Bosco Fambul"
-#theme: "twentyfourteen"
-theme: "hugo-theme-bootie-docs"
-copyright: "Copyright (c) 2015, Don Bosco Fambul / Sierra Leone"
-params:
-  mainMenu: 
-    - about
-    - usage
-  noCategoryLink: true
-  withSitePosts: true
-...
+theme: "hugo_theme_beg"
+
+Params:
+  Author: "Don Bosco Fambul"
+  DateForm: "Mon, Jan 2, 2006"
+  GoogleAnalyticsUserID: "UA-55005303-5"
+  Facebook: "donboscofambul"
+  ShowRelatedPost: True
+  Disqus: "unresolved"
+  SyntaxHighlightTheme: "github.min.css"
+
+Indexes:
+  tag: "tags"
+
+permalinks:
+  post: /blog/:year/:month/:day/:slug/
+
+MetadataFormat: "yaml"
