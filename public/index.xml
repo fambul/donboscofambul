@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Don Bosco Fambul </title>
-    <link>http://fambul.github.io/donboscofambul/</link>
+    <link>http://localhost:1313/donboscofambul/</link>
     <language>en-us</language>
     <author>Don Bosco Fambul</author>
     <rights>(C) 2015</rights>
@@ -12,11 +12,11 @@
       
         <item>
           <title>Don Bosco</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/don-bosco/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/don-bosco/</link>
           <pubDate>Mon, 08 Jun 2015 16:10:10 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/don-bosco/</guid>
-          <description>&lt;p&gt;&lt;img src=&#34;http://fambul.github.io/donboscofambul/images/don_bosco_alone.jpg&#34; alt=&#34;Don Bosco&#34; /&gt;
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/don-bosco/</guid>
+          <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/donboscofambul/images/don_bosco_alone.jpg&#34; alt=&#34;Don Bosco&#34; /&gt;
 
 Saint John Bosco (16 August 1815 – 31 January 1888), born Giovanni Melchiorre Bosco, also called Don Bosco, was an Italian Catholic priest and educator, who put into practice the convictions of his religion, dedicating his life to the upliftment and education of poor youngsters, and employing teaching methods based on love rather than punishment.
 He placed his works under the protection of Francis de Sales; the chief organization he founded was therefore known as the Society of St Francis de Sales, or, popularly, as the Salesian Society or the Salesians of Don Bosco. He also founded, together with Maria Domenica Mazzarello, the Institute of the Daughters of Mary Help of Christians, a religious congregation of nuns dedicated to the care and education of poor girls, and popularly known as Salesian Sisters.
@@ -28,10 +28,10 @@ Don Bosco succeeded in establishing a network of organizations and centres to ca
       
         <item>
           <title>Punishments</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/punishments/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/punishments/</link>
           <pubDate>Mon, 08 Jun 2015 14:27:33 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/punishments/</guid>
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/punishments/</guid>
           <description>&lt;p&gt;Don Bosco was of the opinion that young people make mistakes not out of malice but due to lack of guidance and thoughtlessness.  If punishments are inflicted harshly they do not forget them easily and seek to take revenge.  Therefore, if possible, it is better not to have recourse to punishments.  But if punishment becomes inevitable they should be done privately, with love, prudence and patience.  However, certain punishments like striking someone, pulling someone’s ears, making someone kneel and other such punishments are to be avoided absolutely.&lt;/p&gt;
 
 &lt;p&gt;In his short work entitled “The Preventive System in the Education of the Young,” Don Bosco says that “there are two systems which have been in use through all ages in the education of youth: the preventive and the repressive.” So the preventive system is not totally a creation of Don Bosco.  Many of the elements that he considered as integral to his system were already mentioned by others. What is perhaps specific to Don Bosco is the genial way in which he combined various elements to give the already existing rudimentary system a new physiognomy.&lt;/p&gt;
@@ -42,10 +42,10 @@ Don Bosco succeeded in establishing a network of organizations and centres to ca
       
         <item>
           <title>Respect for the individual</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/respect-for-the-individual/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/respect-for-the-individual/</link>
           <pubDate>Mon, 08 Jun 2015 14:26:04 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/respect-for-the-individual/</guid>
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/respect-for-the-individual/</guid>
           <description>&lt;p&gt;Don Bosco held that humans are created in the image and likeness of God. Because of this among all material beings humans alone intelligence and will and thus the capacity to love one another and to relate to God.  Therefore they have a dignity and worth which other material things do not have.  This is to be manifested in the way we deal with the young: “Let us treat young people as we would treat Jesus if he were a pupil in one of our schools.  Let us treat them with love, and they will love us in return.  Let us treat them with respect, and they will respect us in return.  They themselves must come to acknowledge us as the educators-in-charge.”&lt;/p&gt;
 </description>
         </item>
@@ -54,10 +54,10 @@ Don Bosco succeeded in establishing a network of organizations and centres to ca
       
         <item>
           <title>Prevention</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/prevention/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/prevention/</link>
           <pubDate>Mon, 08 Jun 2015 14:25:53 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/prevention/</guid>
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/prevention/</guid>
           <description>&lt;p&gt;Don Bosco said that his educational system, “places the pupils in the impossibility of committing faults.”&lt;/p&gt;
 
 &lt;p&gt;Prevention has two functions:&lt;/p&gt;
@@ -71,7 +71,7 @@ allowing calculated and responsible risks; and
 trust in youthful idealism and sense of responsibility.”
 When practiced in this way prevention will offer the young person adequate opportunity to make free decisions while at the same time protecting them from damaging experiences, which especially at their age of psychological development, can become  insurmountable obstacles for their growth.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://fambul.github.io/donboscofambul/images/boys---education.jpg&#34; alt=&#34;Boys Education&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/donboscofambul/images/boys---education.jpg&#34; alt=&#34;Boys Education&#34; /&gt;
 For some the word ‘preventive’ might have a negative connotation.  To understand and appreciate its sense as used by Don Bosco, “one should perhaps think of the way the word is used currently in the phrase ‘preventive medicine’.  Don Bosco’s method of education was ‘preventive’ in so far as he sought to create a healthy environment within which the personalities of his boys could unfold and develop.  He tried to ensure by prudent foresight that they were not exposed to moral dangers which they were still too immature to face.  Like a good doctor he believed not in trying to patch up remedies when things had gone wrong, but in seeking to ensure physical and moral well-being by a positively healthy environment.”
 It is doubtful whether Don Bosco used the term ‘preventive system’ for his educational method before 1877.  Most probably he adopted this term in order to locate his method within the general classification of educational systems in his day and thus give it a scientific temper.&lt;/p&gt;
 </description>
@@ -81,11 +81,11 @@ It is doubtful whether Don Bosco used the term ‘preventive system’ for his e
       
         <item>
           <title>Assistance (Accompaniment)</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/assistance-accompaniment/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/assistance-accompaniment/</link>
           <pubDate>Mon, 08 Jun 2015 14:24:37 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/assistance-accompaniment/</guid>
-          <description>&lt;p&gt;&lt;img src=&#34;http://fambul.github.io/donboscofambul/images/salesians3.jpg&#34; alt=&#34;Assistance&#34; /&gt;
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/assistance-accompaniment/</guid>
+          <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/donboscofambul/images/salesians3.jpg&#34; alt=&#34;Assistance&#34; /&gt;
 Assistance has two meanings in the writings of Don Bosco:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -102,10 +102,10 @@ So assistance is ‘presence’ and ‘availability’ of the educator to the yo
       
         <item>
           <title>Joy</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/joy/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/joy/</link>
           <pubDate>Mon, 08 Jun 2015 14:24:02 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/joy/</guid>
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/joy/</guid>
           <description>&lt;p&gt;One of the secrets of the good running of the oratory mentioned by Don Bosco was: “happiness, singing, music and great freedom in amusements.”&lt;/p&gt;
 
 &lt;p&gt;Don Caviglia, an authority on Don Bosco says, “Don Bosco was able to see the part of joy in formation and in the life of sanctity, and wanted that gaiety and good humour should reign among his people.  Servite Domino in laetitia (Serve the Lord in joy) could be called the 11th commandment in Don Bosco’s house.”&lt;/p&gt;
@@ -116,10 +116,10 @@ So assistance is ‘presence’ and ‘availability’ of the educator to the yo
       
         <item>
           <title>Trust</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/trust/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/trust/</link>
           <pubDate>Mon, 08 Jun 2015 14:23:31 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/trust/</guid>
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/trust/</guid>
           <description>&lt;p&gt;Don Bosco maintained that “it is not possible to educate youngsters if they have no trust in their superiors.”&lt;/p&gt;
 
 &lt;p&gt;Only if the pupils trust the educator will they open themselves to him/her.  Trust is gained by eliminating whatever alienates the pupils from the educator.  The educator can do this by going to the pupils first, adapting to their tastes and becoming one like them.&lt;/p&gt;
@@ -130,11 +130,11 @@ So assistance is ‘presence’ and ‘availability’ of the educator to the yo
       
         <item>
           <title>Familiarity</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/familiarity/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/familiarity/</link>
           <pubDate>Mon, 08 Jun 2015 14:22:45 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/familiarity/</guid>
-          <description>&lt;p&gt;&lt;img src=&#34;http://fambul.github.io/donboscofambul/images/salesians4.jpg&#34; alt=&#34;Familiarity&#34; /&gt;
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/familiarity/</guid>
+          <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/donboscofambul/images/salesians4.jpg&#34; alt=&#34;Familiarity&#34; /&gt;
 &amp;ldquo;Familiarity for Don Bosco meant family-style relationships and a home-like way of living and working together.  Its result is the family spirit.&amp;rdquo; Don Bosco, except in official documents, preferred to refer to his institutions as house, this house, the house of the oratory, etc.  He wanted his institutions to be like a home and the people living and working/studying there to relate to one another as members of a family: “Every youngster who comes to a house of ours should regard his companions as brothers, and his superiors as those who take the place of his parents.”&lt;/p&gt;
 
 &lt;p&gt;To speak of the educator-pupil relationship in terms of father-son relationship was quite common. While there was affection in this relationship, this traditional relationship was characterized by aloofness and severity on the part of the educator and awe and respectful distance on the part of the pupil.&lt;/p&gt;
@@ -147,10 +147,10 @@ So assistance is ‘presence’ and ‘availability’ of the educator to the yo
       
         <item>
           <title>Loving Kindness</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/loving-kindness/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/loving-kindness/</link>
           <pubDate>Mon, 08 Jun 2015 14:21:45 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/loving-kindness/</guid>
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/loving-kindness/</guid>
           <description>&lt;p&gt;Don Bosco used to adivse the directors of Salesian institutions: “Try to make yourself loved rather than feared” The love that he had in mind was a spiritually mature, impartial, generous, selfless and self-sacrificing love.  In the Letter from Rome (1884) he mentions love 27 times (The letter has 3,693 words).  The youngsters must be made to feel that they are loved.  He says: “The youngsters should not only be loved, but they themselves should know that they are loved.”&lt;/p&gt;
 </description>
         </item>
@@ -159,10 +159,10 @@ So assistance is ‘presence’ and ‘availability’ of the educator to the yo
       
         <item>
           <title>Religion</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/religion/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/religion/</link>
           <pubDate>Mon, 08 Jun 2015 14:20:27 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/religion/</guid>
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/religion/</guid>
           <description>&lt;p&gt;Don Bosco based his educational method on the Catholic faith tradition and believed that faith in Jesus Christ and commitment to the Church were needed not only for spiritual growth but also for one’s human, psychological, and intellectual growth.  He also placed lot of importance on religious practices.&lt;/p&gt;
 
 &lt;p&gt;However, once (February 1878) he explained his educational method to Minister of the Interior Francesco Crispi, without making any reference to religion.  “The reason for this might be sought in the ‘political’ situation, or even in Don Bosco’s conviction that young people at risk could be helped by the method of reason and loving-kindness, even without reference to religion.”&lt;/p&gt;
@@ -173,10 +173,10 @@ So assistance is ‘presence’ and ‘availability’ of the educator to the yo
       
         <item>
           <title>Reason</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/reason/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/reason/</link>
           <pubDate>Mon, 08 Jun 2015 14:18:04 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/reason/</guid>
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/reason/</guid>
           <description>&lt;p&gt;By reason Don Bosco meant at least four things:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -192,11 +192,11 @@ So assistance is ‘presence’ and ‘availability’ of the educator to the yo
       
         <item>
           <title>A unique Synthesis of Don Bosco</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/a-unique-synthesis-of-don-bosco/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/a-unique-synthesis-of-don-bosco/</link>
           <pubDate>Mon, 08 Jun 2015 14:15:57 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/a-unique-synthesis-of-don-bosco/</guid>
-          <description>&lt;p&gt;&lt;img src=&#34;http://fambul.github.io/donboscofambul/images/salesians2.jpg&#34; alt=&#34;A Unique Synthesis of Don Bosco&#34; /&gt;
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/a-unique-synthesis-of-don-bosco/</guid>
+          <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/donboscofambul/images/salesians2.jpg&#34; alt=&#34;A Unique Synthesis of Don Bosco&#34; /&gt;
 The Preventive System can be said to be the sum total of the convictions of Don Bosco, based on his long experience of nearly fifty years of working with the young at risk, which found expression in a specific style of relating, that he used for dealing constructively and effectively with youth to make them God-oriented persons and responsible citizens. Although at the request of different people he wrote short texts explaining his system at various times, the tenets of the system are contained in his 47 year experience of working with young at risk rather than in any one text.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -220,11 +220,11 @@ The Preventive System can be said to be the sum total of the convictions of Don 
       
         <item>
           <title>Pedagogy of the Future</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/pedagogy-of-the-future/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/pedagogy-of-the-future/</link>
           <pubDate>Mon, 08 Jun 2015 14:14:23 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/pedagogy-of-the-future/</guid>
-          <description>&lt;p&gt;&lt;img src=&#34;http://fambul.github.io/donboscofambul/images/abbe_pierre.jpg&#34; alt=&#34;Abbé Pierre&#34; /&gt;
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/pedagogy-of-the-future/</guid>
+          <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/donboscofambul/images/abbe_pierre.jpg&#34; alt=&#34;Abbé Pierre&#34; /&gt;
 Abbé Pierre (1912-2007), was a French Catholic Priest who founded the Emmaus Movement in 1949 to help poor and homeless people and refugees.  For almost twenty consecutive years he was voted the most popular person in France.  He has come to India at the invitation of Indira Gandhi and Jayaprakash Narayan to deal with the issues of refugees.  Fr. Duvallet was for twenty years a collaborator of Abbé Pierre in the work of re-education of delinquent youth.  He makes a significant appeal to the Salesians: “You have works, colleges and oratories for young people, but your real treasure is one and only: the pedagogy of Don Bosco.  In a world in which youngsters are betrayed, drained, ground down and exploited, the Lord has entrusted to you a pedagogy in which the paramount aspect is respect for the boy, for his greatness and frailty, for his dignity as a son of God.&lt;/p&gt;
 
 &lt;p&gt;“Preserve it, renew it, rejuvenate it, enrich it with all modern discoveries; adapt it to all the developments of the twentieth century and their ramifications that Don Bosco could not be aware of.  But I beg you to keep it safe!  Change everything, let your houses go if necessary, but keep this treasure and build up in thousands of hearts this way of loving and saving the souls of boys which you have inherited from Don Bosco.”&lt;/p&gt;
@@ -239,11 +239,11 @@ Abbé Pierre (1912-2007), was a French Catholic Priest who founded the Emmaus Mo
       
         <item>
           <title>Salesians of Don Bosco</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/08/salesians-of-don-bosco/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/08/salesians-of-don-bosco/</link>
           <pubDate>Mon, 08 Jun 2015 14:12:56 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/08/salesians-of-don-bosco/</guid>
-          <description>&lt;p&gt;&lt;img src=&#34;http://fambul.github.io/donboscofambul/images/salesians1.jpg&#34; alt=&#34;Salesians of Don Bosco&#34; /&gt;
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/08/salesians-of-don-bosco/</guid>
+          <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/donboscofambul/images/salesians1.jpg&#34; alt=&#34;Salesians of Don Bosco&#34; /&gt;
 The Salesian Society is a worldwide organization founded by St. John Bosco and is the third largest Catholic religious order in the world.
 Don Bosco gathered a number of priests and lay people together to found a religious congregation in the Catholic Church. He called this congregation the Salesian Society.It was named after St. Francis de Sales who was known for his kind and gentle manner, a trait which Don Bosco wanted his Salesians to acquire. He also chose Mary, Help of Christians, as the patroness of the Salesian Society.&lt;/p&gt;
 
@@ -262,10 +262,10 @@ All these groups within Don Bosco&amp;rdquo;s spiritual family share his educati
       
         <item>
           <title>welcome</title>
-          <link>http://fambul.github.io/donboscofambul/blog/2015/06/06/welcome/</link>
+          <link>http://localhost:1313/donboscofambul/blog/2015/06/06/welcome/</link>
           <pubDate>Sat, 06 Jun 2015 12:11:42 CEST</pubDate>
           <author>Don Bosco Fambul</author>
-          <guid>http://fambul.github.io/donboscofambul/blog/2015/06/06/welcome/</guid>
+          <guid>http://localhost:1313/donboscofambul/blog/2015/06/06/welcome/</guid>
           <description>&lt;p&gt;Von Sabine Kolping, Fachkraft im zivilen Friedensdienst entsandt durch die Arbeitsgemeinschaft Entwicklungshilfe (AGEH) für 3 Jahre. Sie ist bei Don Bosco Fambul zuständig für die Fortbildung der Mitarbeitenden und die Betreuung von PraktikantInnen,
 Sierra Leone – ein Nachkriegsland
 Elf Jahre wütete der Bürgerkrieg in Sierra Leone - einer der grausamsten und brutalsten in Afrika. Dieser Krieg hat spürbare Wunden im Land hinterlassen: die Menschen haben unvorstellbares Leid erfahren und müssen nun ihre Kriegs-Traumata verarbeiten. Auch die Infrastruktur wurde in großen Teilen zerstört. Der Krieg in dem kleinen westafrikanischen Land - mit 71.000 Quadratkilometer nur unwesentlich größer als Bayern - ist zwar seit acht Jahren offiziell beendet. Dennoch: die soziale, politische und wirtschaftliche Situation ist nach wie vor fragil. Sierra Leone ist das drittärmste Land der Welt.&lt;/p&gt;
